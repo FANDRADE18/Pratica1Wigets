@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica1_Wigets</string>
+    <string name="TextoSaludo">¡HOLA MUNDO!</string>
+    <string name="edittextcaptura">¡ADIOS MUNDO!</string>
+    <string name="btnenviar">CLICK  PARA ENVIAR</string>
+
+
+</resources>
